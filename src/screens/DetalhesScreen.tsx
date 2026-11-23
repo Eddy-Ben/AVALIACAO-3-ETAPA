@@ -12,7 +12,7 @@ export default function DetalhesScreen({ navigation, route }: PropsDaTela<'Detal
   const { buscarPorId, alternarLido, excluir } = useLivros();
   const livro = buscarPorId(route.params.id);
 
-  // Acontece por um instante depois da exclusão, antes de voltar para a lista
+  // Logo depois de excluir, o livro some antes de a tela voltar para a lista
   if (!livro) {
     return (
       <View style={styles.centro}>
