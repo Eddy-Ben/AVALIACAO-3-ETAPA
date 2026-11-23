@@ -4,6 +4,12 @@ Aplicativo para organizar os livros que eu tenho: cadastrar, ver os detalhes, ma
 
 Avaliação da 3ª etapa da disciplina de Desenvolvimento para Dispositivos Móveis, feita em React Native com TypeScript e Expo. É a continuação do app do trabalho anterior (tema 4, Minha biblioteca).
 
+## Vídeos de demonstração
+
+Os vídeos mostrando o app funcionando estão nesta pasta do Google Drive:
+
+https://drive.google.com/drive/folders/1mqzXGf4cFItbH6Sgars0iUiKS26jm8Cn
+
 ## Funcionalidades
 
 - Cadastro de livro com título, autor e gênero (obrigatórios) e capa (opcional). Se algum campo obrigatório ficar vazio, o aviso aparece embaixo dele e o livro não é salvo.
