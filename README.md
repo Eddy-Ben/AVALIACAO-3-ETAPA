@@ -8,7 +8,7 @@ Avaliação da 3ª etapa da disciplina de Desenvolvimento para Dispositivos Móv
 
 Os vídeos mostrando o app funcionando estão nesta pasta do Google Drive:
 
-https://drive.google.com/drive/folders/1mqzXGf4cFItbH6Sgars0iUiKS26jm8Cn
+https://drive.google.com/drive/folders/1mqzXGf4cFItbH6Sgars0iUiKS26jm8Cn?usp=sharing
 
 ## Funcionalidades
 
