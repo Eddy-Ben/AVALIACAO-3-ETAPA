@@ -1,0 +1,20 @@
+// Cores usadas em todo o app, para manter o visual padronizado
+export const cores = {
+  fundo: '#F7F1EA',
+  cartao: '#FFFFFF',
+  marrom: '#5B3A29',
+  marromMedio: '#8B5E3C',
+  bege: '#C9A27E',
+  begeClaro: '#F1E4D6',
+  borda: '#D9C7B3',
+  campo: '#FFFCF8',
+  textoForte: '#3B2418',
+  texto: '#6E5A4C',
+  textoSuave: '#8C7B6E',
+  textoClaro: '#FFF8EE',
+  verde: '#4C8C4A',
+  verdeClaro: '#F4F9F3',
+  amarelo: '#7A5A00',
+  amareloClaro: '#FBEFC9',
+  erro: '#B3261E',
+};
